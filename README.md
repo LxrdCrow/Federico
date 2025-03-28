@@ -23,9 +23,12 @@ Let's connect and explore the world of technology together! 🤝
 
 ## Contact Me
 
-<div style="display: flex; align-items: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 180px; height: auto;" />
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+    <a href="https://www.linkedin.com/in/federicoyingrasso/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 180px; height: auto;" />
+    </a>
 </div>
+
 
 
 
