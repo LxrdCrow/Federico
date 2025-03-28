@@ -1,6 +1,8 @@
 # Hi, I'm Federico! ☀️
 
-I am a passionate Back-End Developer 💻 with a strong interest in programming and a constant desire to learn something new 🚀. My curiosity drives me to explore technology from all angles 🌍, and I have a particular fascination with cybersecurity. I aspire to create my own projects and solutions, embracing challenges as opportunities for growth and innovation. 
+I am a passionate Back-End Developer 💻 with a strong interest in programming and a constant desire to learn something new 🚀. Currently, I work primarily with PHP and Laravel, while also delving into software engineering concepts 🔍. My curiosity drives me to explore various aspects of technology, with a particular fascination for cybersecurity 🔐.
+
+In my free time, I love playing chess ♟️, reading 📚, writing stories ✍️, playing the guitar 🎸, and studying languages 🌐. I believe in embracing challenges as opportunities for growth and innovation.
 
 Let's connect and explore the world of technology together! 🤝
 
