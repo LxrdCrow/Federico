@@ -21,13 +21,11 @@ Let's connect and explore the world of technology together! 🤝
 
 
 
-## Contact Me
 
-<div style="text-align: left;">
-    <a href="https://www.linkedin.com/in/federicoyingrasso/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 180px; height: auto;" />
-    </a>
-</div>
+
+## Contact Me
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/federicoyingrasso/)
+
 
 
 
