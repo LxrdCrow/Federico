@@ -23,8 +23,8 @@ Let's connect and explore the world of technology together! 🤝
 
 ## Contact Me
 
-<div style="display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 380px; height: auto;" />
+<div style="display: flex; align-items: left;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 180px; height: auto;" />
 </div>
 
 
