@@ -23,5 +23,6 @@ Let's connect and explore the world of technology together! 🤝
 
 ## Contact Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](link_to_LinkedIn_profile)(https://www.linkedin.com/in/federicoyingrasso/)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/federicoyingrasso/)
+
 
