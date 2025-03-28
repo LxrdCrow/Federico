@@ -5,7 +5,10 @@ I am a passionate Back-End Developer 💻 with a strong interest in programming 
 Let's connect and explore the world of technology together! 🤝
 
 
+
+
 # Skills
+
 ![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Badge Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
 ![Badge TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -15,6 +18,10 @@ Let's connect and explore the world of technology together! 🤝
 ![Badge MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
+
+
+
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/federicoyingrasso/)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](link_to_LinkedIn_profile)(https://www.linkedin.com/in/federicoyingrasso/)
 
