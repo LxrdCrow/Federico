@@ -1,14 +1,9 @@
 # Hi, I'm Federico!
 
-A passionate Back-End Developer with experience in:
+I am a passionate Back-End Developer with a strong interest in programming and a constant desire to learn something new. My curiosity drives me to explore technology from all angles, and I have a particular fascination with cybersecurity. I aspire to create my own projects and solutions, embracing challenges as opportunities for growth and innovation. 
 
-- JavaScript
-- Node.js
-- TypeScript
-- Solidity
-- PHP
-- Laravel
-- MySQL
+I believe in continuous improvement and am committed to expanding my skill set in the ever-evolving tech landscape. Let's connect and explore the world of technology together!
+
 
 ![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Badge Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
