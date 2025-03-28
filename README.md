@@ -5,7 +5,7 @@ I am a passionate Back-End Developer 💻 with a strong interest in programming 
 Let's connect and explore the world of technology together! 🤝
 
 
-<hr></hr>
+<hr>
 
 ## Skills
 
@@ -33,7 +33,7 @@ Let's connect and explore the world of technology together! 🤝
 </div>
 
 
-<hr></hr>
+<hr>
 
 
 ## Socials
