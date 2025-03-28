@@ -7,35 +7,35 @@ Let's connect and explore the world of technology together! 🤝
 
 
 
-# Skills
+## Skills
 
-<a href="#" style="margin-right: 10px;">
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;">
-</a>
-<a href="#" style="margin-right: 10px;">
+</a><span style="margin-right: 10px;"></span>
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;">
-</a>
-<a href="#" style="margin-right: 10px;">
+</a><span style="margin-right: 10px;"></span>
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;">
-</a>
-<a href="#" style="margin-right: 10px;">
+</a><span style="margin-right: 10px;"></span>
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;">
-</a>
-<a href="#" style="margin-right: 10px;">
+</a><span style="margin-right: 10px;"></span>
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="max-width: 100%;">
-</a>
-<a href="#" style="margin-right: 10px;">
+</a><span style="margin-right: 10px;"></span>
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" style="max-width: 100%;">
-</a>
-<a href="#" style="margin-right: 10px;">
+</a><span style="margin-right: 10px;"></span>
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" style="max-width: 100%;">
-</a>
-<a href="#" style="margin-right: 10px;">
+</a><span style="margin-right: 10px;"></span>
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" style="max-width: 100%;">
-</a>
-<a href="#" style="margin-right: 10px;">
+</a><span style="margin-right: 10px;"></span>
+<a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" style="max-width: 100%;">
-</a>
+</a><span style="margin-right: 10px;"></span>
 <a href="#">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;">
 </a>
