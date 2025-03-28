@@ -23,6 +23,7 @@ Let's connect and explore the world of technology together! 🤝
 
 ## Contact Me
 
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/federicoyingrasso/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/federicoyingrasso/)
+
 
 
