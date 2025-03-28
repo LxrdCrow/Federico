@@ -24,7 +24,7 @@ Let's connect and explore the world of technology together! 🤝
 
 
 ## Contact Me
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/federicoyingrasso/)
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;">](https://www.linkedin.com/in/federicoyingrasso/)
 
 
 
