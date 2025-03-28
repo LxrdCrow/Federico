@@ -25,8 +25,9 @@ Let's connect and explore the world of technology together! 🤝
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/federicoyingrasso/" style="margin-right: 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 100px; height: auto;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 60px; height: 60px;" />
     </a>
+    <span>Connect with me on LinkedIn</span>
 </div>
 
 
