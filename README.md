@@ -25,9 +25,10 @@ Let's connect and explore the world of technology together! 🤝
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/federicoyingrasso/" style="margin-right: 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="80" height="80" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 40px; height: auto;" />
     </a>
 </div>
+
 
 
 
